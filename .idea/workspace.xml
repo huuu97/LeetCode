@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae709ae-b0fd-46b3-a0b9-bf4fb6f4f70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/155_min_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/20_valid_parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/32_longest_valid_parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack/316_remove_duplicate_letters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stack/224_basic_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/224_basic_calculator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/prepre$224_basic_calculator.coverage" NAME="224_basic_calculator Coverage Results" MODIFIED="1587714292675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
     <SUITE FILE_PATH="coverage/prepre$2_add_two_number.coverage" NAME="2_add_two_number Coverage Results" MODIFIED="1587364319541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlist" />
     <SUITE FILE_PATH="coverage/prepre$46_permutation.coverage" NAME="46_permutation Coverage Results" MODIFIED="1587474533441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backtracking" />
     <SUITE FILE_PATH="coverage/prepre$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1587635308235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_programming" />
@@ -33,11 +33,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stack/155_min_stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stack/224_basic_calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stack/316_remove_duplicate_letters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -88,6 +106,8 @@
         <option value="$PROJECT_DIR$/stack/32_.py" />
         <option value="$PROJECT_DIR$/stack/32_longest_valid_parentheses.py" />
         <option value="$PROJECT_DIR$/stack/155_min_stack.py" />
+        <option value="$PROJECT_DIR$/stack/224_basic_calculator.py" />
+        <option value="$PROJECT_DIR$/stack/316_remove_duplicate_letters.py" />
       </list>
     </option>
   </component>
@@ -150,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.54_spiral_matrix">
+  <component name="RunManager" selected="Python.224_basic_calculator">
     <configuration name="10_regular_expression_matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="prepre" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +185,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backtracking/10_regular_expression_matching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="224_basic_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="prepre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/224_basic_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,28 +259,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="46_permutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="prepre" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backtracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backtracking/46_permutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="54_spiral_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="prepre" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,11 +283,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.224_basic_calculator" />
         <item itemvalue="Python.54_spiral_matrix" />
         <item itemvalue="Python.300_longest_increasing_subsequence" />
         <item itemvalue="Python.10_regular_expression_matching" />
         <item itemvalue="Python.22_generate_parentheses" />
-        <item itemvalue="Python.46_permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -287,12 +307,12 @@
       <workItem from="1587472379645" duration="3536000" />
       <workItem from="1587563124988" duration="1251000" />
       <workItem from="1587608324175" duration="14938000" />
-      <workItem from="1587696444393" duration="1954000" />
+      <workItem from="1587696444393" duration="5199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34756000" />
+    <option name="totallyTimeSpent" value="38001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -516,8 +536,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stack/155_min_stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/224_basic_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack/316_remove_duplicate_letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
         </state>
       </provider>
     </entry>
