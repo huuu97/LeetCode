@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dae709ae-b0fd-46b3-a0b9-bf4fb6f4f70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stack/316_remove_duplicate_letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stack/224_basic_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/224_basic_calculator.py" afterDir="false" />
-    </list>
+    <list default="true" id="dae709ae-b0fd-46b3-a0b9-bf4fb6f4f70a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,12 +303,12 @@
       <workItem from="1587472379645" duration="3536000" />
       <workItem from="1587563124988" duration="1251000" />
       <workItem from="1587608324175" duration="14938000" />
-      <workItem from="1587696444393" duration="5199000" />
+      <workItem from="1587696444393" duration="5262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38001000" />
+    <option name="totallyTimeSpent" value="38064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
