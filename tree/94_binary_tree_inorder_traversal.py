@@ -42,15 +42,13 @@ class Solution_2:
 
         q1 = []
         q2 = []
-
         while root or q1:
-            if root:
+            while root:
                 q1.append(root)
                 root = root.left
-            else:
-                node = q1.pop()
-                q2.append(node.val)
-                root = root.right
+
+            node = q1.pop()
+            q2.append(node.val)
+            root = node.right
 
         return q2
-

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae709ae-b0fd-46b3-a0b9-bf4fb6f4f70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/recursion/101_symmetric_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/104_maximum_depth_of_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/21_merge_two_sorted_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/226_invert_binary_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/236_LCA_of_a_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/14_longest_common_prefix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/6_zigzag_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string/763_partition_labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/450_delete_node_in_bST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/701_insert_into_bST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree/98_validate_binary_search_tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree/94_binary_tree_inorder_traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/94_binary_tree_inorder_traversal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/prepre$224_basic_calculator.coverage" NAME="224_basic_calculator Coverage Results" MODIFIED="1587714292675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stack" />
+    <SUITE FILE_PATH="coverage/prepre$98_validate_binary_search_tree.coverage" NAME="98_validate_binary_search_tree Coverage Results" MODIFIED="1587954898733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
     <SUITE FILE_PATH="coverage/prepre$2_add_two_number.coverage" NAME="2_add_two_number Coverage Results" MODIFIED="1587364319541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlist" />
     <SUITE FILE_PATH="coverage/prepre$46_permutation.coverage" NAME="46_permutation Coverage Results" MODIFIED="1587474533441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backtracking" />
     <SUITE FILE_PATH="coverage/prepre$300_longest_increasing_subsequence.coverage" NAME="300_longest_increasing_subsequence Coverage Results" MODIFIED="1587635308235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic_programming" />
@@ -27,38 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recursion/21_merge_two_sorted_lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recursion/104_maximum_depth_of_binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="41" column="20" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="41" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recursion/226_invert_binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="14" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recursion/236_LCA_of_a_binary_tree.py">
+        <entry file="file://$PROJECT_DIR$/string/6_zigzag_conversion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -111,7 +87,6 @@
         <option value="$PROJECT_DIR$/stack/155_min_stack.py" />
         <option value="$PROJECT_DIR$/stack/224_basic_calculator.py" />
         <option value="$PROJECT_DIR$/stack/316_remove_duplicate_letters.py" />
-        <option value="$PROJECT_DIR$/tree/94_binary_tree_inorder_traversal.py" />
         <option value="$PROJECT_DIR$/tree/102_binary_tree_level_order_traversal.py" />
         <option value="$PROJECT_DIR$/tree/144_binary_tree_preorder_traversal.py" />
         <option value="$PROJECT_DIR$/tree/145_binary_tree_postorder_traversal.py" />
@@ -121,6 +96,13 @@
         <option value="$PROJECT_DIR$/recursion/104_maximum_depth_of_binary_tree.py" />
         <option value="$PROJECT_DIR$/recursion/226_invert_binary_tree.py" />
         <option value="$PROJECT_DIR$/recursion/236_LCA_of_a_binary_tree.py" />
+        <option value="$PROJECT_DIR$/tree/94_binary_tree_inorder_traversal.py" />
+        <option value="$PROJECT_DIR$/tree/98_validate_binary_search_tree.py" />
+        <option value="$PROJECT_DIR$/tree/450_delete_node_in_bST.py" />
+        <option value="$PROJECT_DIR$/tree/701_insert_into_bST.py" />
+        <option value="$PROJECT_DIR$/string/6_zigzag_conversion.py" />
+        <option value="$PROJECT_DIR$/string/14_longest_common_prefix.py" />
+        <option value="$PROJECT_DIR$/string/763_partition_labels.py" />
       </list>
     </option>
   </component>
@@ -151,6 +133,11 @@
               <item name="prepre" type="b2602c69:ProjectViewProjectNode" />
               <item name="prepre" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prepre" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepre" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="prepre" type="b2602c69:ProjectViewProjectNode" />
@@ -188,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.224_basic_calculator">
+  <component name="RunManager" selected="Python.98_validate_binary_search_tree">
     <configuration name="10_regular_expression_matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="prepre" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,28 +212,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stack/224_basic_calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="22_generate_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="prepre" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backtracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backtracking/22_generate_parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,13 +264,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="98_validate_binary_search_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="prepre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/98_validate_binary_search_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.98_validate_binary_search_tree" />
         <item itemvalue="Python.224_basic_calculator" />
         <item itemvalue="Python.54_spiral_matrix" />
         <item itemvalue="Python.300_longest_increasing_subsequence" />
         <item itemvalue="Python.10_regular_expression_matching" />
-        <item itemvalue="Python.22_generate_parentheses" />
       </list>
     </recent_temporary>
   </component>
@@ -328,17 +315,18 @@
       <workItem from="1587696444393" duration="5262000" />
       <workItem from="1587806627400" duration="4071000" />
       <workItem from="1587861422845" duration="5454000" />
+      <workItem from="1587953721852" duration="5424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47589000" />
+    <option name="totallyTimeSpent" value="53013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -575,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/56_merge_intervals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/145_binary_tree_postorder_traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -596,24 +577,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tree/94_binary_tree_inorder_traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tree/110_balanced_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recursion/21_merge_two_sorted_lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -626,8 +593,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/recursion/104_maximum_depth_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="41" column="20" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="41" selection-end-column="20" />
+        <state relative-caret-position="615">
+          <caret line="41" column="20" selection-start-line="22" selection-start-column="4" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursion/236_LCA_of_a_binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -638,10 +612,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recursion/236_LCA_of_a_binary_tree.py">
+    <entry file="file://$PROJECT_DIR$/recursion/21_merge_two_sorted_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/98_validate_binary_search_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/450_delete_node_in_bST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/701_insert_into_bST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree/94_binary_tree_inorder_traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/56_merge_intervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/763_partition_labels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/14_longest_common_prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string/6_zigzag_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
