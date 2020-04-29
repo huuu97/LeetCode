@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dae709ae-b0fd-46b3-a0b9-bf4fb6f4f70a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/heap/215_kth_largest_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/347_top_k_frequent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integer/172_factorial_trailing_zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integer/258_add_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integer/43_multiply_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integer/7_reverse_integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integer/8_atoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integer/9_palindrome_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,19 +30,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/heap/215_kth_largest_in_array.py">
+        <entry file="file://$PROJECT_DIR$/heap/347_top_k_frequent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="839">
-              <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integer/7_reverse_integer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integer/43_multiply_strings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integer/258_add_digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/heap/347_top_k_frequent.py">
+        <entry file="file://$PROJECT_DIR$/integer/172_factorial_trailing_zeroes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+            <state relative-caret-position="105">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -58,12 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_two_sum.py" />
-        <option value="$PROJECT_DIR$/2_add_two_number.py" />
-        <option value="$PROJECT_DIR$/hash/1_two_sum.py" />
-        <option value="$PROJECT_DIR$/linkedlist/2_add_two_number.py" />
-        <option value="$PROJECT_DIR$/linkedlist/19_remove_nth_node_from_end.py" />
-        <option value="$PROJECT_DIR$/linkedlist/61_rotate_list.py" />
         <option value="$PROJECT_DIR$/linkedlist/138_copy_random_list.py" />
         <option value="$PROJECT_DIR$/linkedlist/206_reverse_list.py" />
         <option value="$PROJECT_DIR$/linkedlist/141_hasCycle.py" />
@@ -109,6 +134,12 @@
         <option value="$PROJECT_DIR$/string/763_partition_labels.py" />
         <option value="$PROJECT_DIR$/heap/215_kth_largest_in_array.py" />
         <option value="$PROJECT_DIR$/heap/347_top_k_frequent.py" />
+        <option value="$PROJECT_DIR$/number/7_reverse_integer.py" />
+        <option value="$PROJECT_DIR$/integer/8_atoi.py" />
+        <option value="$PROJECT_DIR$/integer/9_palindrome_number.py" />
+        <option value="$PROJECT_DIR$/integer/43_multiply_strings.py" />
+        <option value="$PROJECT_DIR$/integer/258_add_digits.py" />
+        <option value="$PROJECT_DIR$/integer/172_factorial_trailing_zeroes.py" />
       </list>
     </option>
   </component>
@@ -122,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +174,11 @@
             <path>
               <item name="prepre" type="b2602c69:ProjectViewProjectNode" />
               <item name="prepre" type="462c0819:PsiDirectoryNode" />
+              <item name="integer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prepre" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prepre" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -158,7 +195,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,18 +363,19 @@
       <workItem from="1587806627400" duration="4071000" />
       <workItem from="1587861422845" duration="5454000" />
       <workItem from="1587953721852" duration="5424000" />
-      <workItem from="1588037998362" duration="4589000" />
+      <workItem from="1588037998362" duration="4680000" />
+      <workItem from="1588122698445" duration="3126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57602000" />
+    <option name="totallyTimeSpent" value="60819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2907916" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2956381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -365,27 +402,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linkedlist/2_add_two_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkedlist/138_copy_random_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linkedlist/61_rotate_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/linkedlist/876_find_middle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -689,15 +705,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/heap/215_kth_largest_in_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+        <state relative-caret-position="1095">
+          <caret line="73" column="30" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/heap/347_top_k_frequent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/7_reverse_integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/9_palindrome_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/8_atoi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/43_multiply_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/258_add_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integer/172_factorial_trailing_zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
